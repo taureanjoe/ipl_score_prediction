@@ -1,37 +1,7 @@
+Flask==0.9
+Jinja2==2.6
 
-conda==4.13.0
-cssselect==1.1.0
-cytoolz==0.11.0
-daal4py==2021.5.0
-datashape==0.5.4
-debugpy @ file:///C:/ci/debugpy_1637073815078/work
-decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
-defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
-diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
-distributed @ file:///opt/conda/conda-bld/distributed_1647271944416/work
-docutils @ file:///C:/ci/docutils_1620828260973/work
-docx==0.2.4
-entrypoints @ file:///C:/ci/entrypoints_1649926621247/work
-et-xmlfile==1.1.0
-executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
-fastjsonschema @ file:///tmp/build/80754af9/python-fastjsonschema_1620414857593/work/dist
-filelock @ file:///opt/conda/conda-bld/filelock_1647002191454/work
-flake8 @ file:///tmp/build/80754af9/flake8_1620776156532/work
-Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
-flatbuffers==1.12
-fonttools==4.25.0
-frozenlist @ file:///C:/ci/frozenlist_1637767289747/work
-fsspec @ file:///opt/conda/conda-bld/fsspec_1647268051896/work
-future==0.18.2
-gast==0.3.3
-gensim @ file:///C:/ci/gensim_1646825121494/work
-glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 
-grpcio==1.32.0
-gunicorn==20.1.0
-h5py==2.10.0
-Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
-jinja2-time @ file:///opt/conda/conda-bld/jinja2-time_1649251842261/work
 
 joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
 json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
@@ -75,42 +45,5 @@ scipy==1.5.4
 Scrapy @ file:///C:/ci/scrapy_1646837955381/work
 spyder @ file:///C:/ci/spyder_1636481183311/work
 spyder-kernels @ file:///C:/ci/spyder-kernels_1634237040526/work
-SQLAlchemy @ file:///C:/ci/sqlalchemy_1647600010916/work
-stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-statsmodels==0.13.2
-sympy @ file:///C:/ci/sympy_1647853833464/work
-tables==3.6.1
-tabulate==0.8.9
-TBB==0.2
-tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
-tenacity @ file:///C:/ci/tenacity_1632740845368/work
-tensorboard==2.4.1
-tensorboard-plugin-wit==1.8.0
-tensorflow==2.4.1
-tensorflow-estimator==2.4.0
-termcolor==1.1.0
-
-ujson @ file:///C:/ci/ujson_1648044264644/work
-Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
-urllib3==1.26.3
-w3lib @ file:///Users/ktietz/demo/mc3/conda-bld/w3lib_1629359764703/work
-watchdog @ file:///C:/ci/watchdog_1638349261759/work
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
-webencodings==0.5.1
-websocket-client @ file:///C:/ci/websocket-client_1614804473297/work
-Werkzeug==1.0.1
-widgetsnbextension @ file:///C:/ci/widgetsnbextension_1645009558218/work
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
-win-unicode-console==0.5
-wincertstore==0.2
-word2number==1.1
-wrapt==1.12.1
-xarray @ file:///opt/conda/conda-bld/xarray_1639166117697/work
-xgboost==1.6.1
 
 xlwings==0.24.9
-yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
-yarl @ file:///C:/ci/yarl_1598045274898/work
-zict==2.0.0
-zipp==3.4.1
-zope.interface @ file:///C:/ci/zope.interface_1625036260333/work
